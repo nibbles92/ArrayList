@@ -2,7 +2,7 @@ package lists.view;
 
 import javax.swing.JOptionPane;
 
-public class ListView
+public class ListViewer
 {
 	
 	public void showList(String currentWords)
